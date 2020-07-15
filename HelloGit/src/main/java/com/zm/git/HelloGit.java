@@ -9,6 +9,7 @@ package com.zm.git;
 public class HelloGit {
      public static void main(String[] args) {
        System.out.println("Hello Git 主干添加。");
+       System.out.println("Hello Git 分支添加");
        System.out.println("更新1");
        System.out.println("更新2");
        System.out.println("创建分支");
